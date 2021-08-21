@@ -6,7 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![hngmobiletask](https://user-images.githubusercontent.com/47262310/130334786-e0baadef-3780-42b5-90bf-45fe2e401667.gif)
+
+https://user-images.githubusercontent.com/47262310/130335080-529043eb-06dc-42c7-a5bb-0f2d346a46b2.mp4
+
+
 
 
 A few resources to get you started if this is your first Flutter project:
